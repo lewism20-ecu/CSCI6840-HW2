@@ -127,7 +127,7 @@ For grading purposes, **all TP/FP/FN/TN metrics and accuracy rates are reported 
 
 ### Figure
 
-![Anomaly Detection Results](anomaly_detection_results.png)
+![Anomaly Detection Results](imgs/anomaly_detection_results.png)
 
 *Figure 1: Nitrate time series with detected anomalies (red X markers) and ground truth anomalies (orange circles). Blue dots represent normal data points. The visualization highlights successful detection of major anomaly clusters, including spikes around indices 5000, 12000–16000, and 30000.*
 
